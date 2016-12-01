@@ -1,1 +1,2 @@
-#opencart_random_products_category_modul
+#Opencart random products category modul.
+Compatibility - Opencart 2.3.x
